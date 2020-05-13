@@ -1,3 +1,10 @@
+#### BREAKING CHANGES
+
+* **Renamed Methods**
+  * `Arg::from_yaml` => `Arg::from`
+  * `Arg::with_name` => `Arg::new`
+  * `ArgGroup::from_yaml` => `ArgGroup::from`
+
 <a name="v3.0.0-beta.1"></a>
 ## v3.0.0-beta.1 (2020-05-03)
 
